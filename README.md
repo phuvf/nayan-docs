@@ -26,6 +26,8 @@ Nayan is a simple push-button-win-prizes game. Each time a contestant pushes the
 - A win: Contestant wins a prize
 - A hero win: Contestant wins a bigger prize plus there's CO2 cannons and live cameras
 
+In addition to the game, the stand will play out videeos of wins from the other sites that are live.
+
 # Components
 
 We're going to ignore the output devices here and just focus on the control equipment. The system has the following elements:
@@ -46,9 +48,9 @@ This runs the game logic, does some of the sequencing and talks to the cloud ser
 
 vMix is used to play the video content for the main LED screen. It is also used to record the live camera feed.
 
-All game audio comes from vMix via an exteral USB sound card.
+All game audio comes from vMix via an external USB sound card.
 
-This is controlled via Companion using OSC.
+This is controlled via Companion using the TCP API.
 
 ### Companion
 
