@@ -1,6 +1,14 @@
+# Intro
+First, I'm not sure I've actaully met everyone working on the AV side of this project. If you don't know me, I'm Nick and I've been (along with Harrison) working on the control logic, video output and content for this event.
+
+You can reach me here:
+- Phone 07815 200339
+- Email: nr@fix8group.com
+- Via the "EE AV Techs" WhatApp group
+
 # Deployment
 
-Firstly, this is not a comprehensive guide on how to deploy this system - it details the basic bulding blocks so you have an idea of the architecture. Once your on-site and ready to work on the control system, I recommend you:
+This is not a comprehensive guide on how to deploy this system - it details the basic bulding blocks so you have an idea of the architecture. Once your on-site and ready to work on the control system, I recommend you:
 
 - Unpack the control rack
 - Get it powered up
