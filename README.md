@@ -63,6 +63,7 @@ Companion actions are triggered via OSC from the node server.
 - Power
 - USB sound card
 - USB webcam
+- USB Streamdeck
 - Wired networking
 - HDMI to LED processor
 
